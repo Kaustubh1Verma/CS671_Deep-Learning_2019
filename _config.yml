@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "CS671"
 title_right   : " Deep Learning" # default: ""
-description   : "The webpage for the assignments "
+description   : "Group 04's website"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://42niks.github.io/CS671-Deep-Learning-2019 # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
