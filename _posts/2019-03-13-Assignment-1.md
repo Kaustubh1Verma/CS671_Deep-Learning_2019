@@ -5,7 +5,7 @@ comments	: false
 author	: "Nikhil T R"
 ---
 
-All code for this assignment can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignment_1).
+All code for this assignment can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_1).
 
 # Question 1 - Aj R Laddha
 # Question 2 - Kaustubh Verma
