@@ -16,4 +16,4 @@ This repository is hosted [here](https://42niks.github.io/CS671-Deep-Learning-20
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
