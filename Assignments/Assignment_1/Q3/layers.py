@@ -15,7 +15,7 @@ def dense(x, in_length, neurons, activation, layer_name,
 		generate random values. Tweaking this can give significantly 
 		different results. This is applied only to weights. 
 
-	Returnslayer_name
+	Returns
 	-------
 	activation(w*x + b) 
 	'''
