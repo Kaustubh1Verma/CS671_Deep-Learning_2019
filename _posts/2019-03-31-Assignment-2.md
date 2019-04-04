@@ -11,7 +11,7 @@ Full problem statements can be found [here](https://github.com/42niks/CS671-Deep
 # Question 2 - Multihead Classification - Nikhil T R
 The report and relevant notebooks can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_2/Q2).
 
-##Description
+## Description
 We were tasked with making a non sequential model using the Funcional API in keras. Basically, we had to classify the line dataset made in the [previous assignment](https://42niks.github.io/CS671-Deep-Learning-2019/2019/Assignment-1/), using multiple classification heads for each of the 4 categories: length, width, colour and angle. These 4 classifiaction heads were supposed to accept a feature map exatracted using a CNN based feature extractor. Length, width and colour classification heads were suppposed to use binary crossentropy as the loss function, whereas angle classification head was to use categorical crossentropy.
 
 ## My Work
