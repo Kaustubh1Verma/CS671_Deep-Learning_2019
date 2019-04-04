@@ -2,7 +2,7 @@
 layout	: post
 title	: "Assignment 1"
 comments	: false
-author	: "Nikhil T R"
+author	: "Group 04"
 ---
 
 All code for this assignment can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_1).
