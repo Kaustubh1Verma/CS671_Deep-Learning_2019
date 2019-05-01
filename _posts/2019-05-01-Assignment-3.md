@@ -16,3 +16,6 @@ In this task were asked to build and train a neural network that can find the co
 
 ## My Work
 Initial look into the dataset showed 14 images that were polluted - they were blank. Those images were removed. I resized all the images to 250x400. The corresponding ground truths were also modified. A npz compressed archive of the images was made, along with the ground truths which was saved in a txt file for comparison later on. Scripts were also made to run the trained model on new test data.
+
+### The Model - Explained
+Since the final output are co-ordinates, this is basically a regression problem. The CNN block consisted of 3 layers with kernel size 3x3 and padding being `valid`. BatchNormalization was used for reducing overfitting and MaxPooling2D was used to bring down the feature size. The dense block was made of 3 layers with 128, 64 and 2 neurons respectively. 
