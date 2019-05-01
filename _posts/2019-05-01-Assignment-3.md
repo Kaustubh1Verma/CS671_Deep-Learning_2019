@@ -19,3 +19,5 @@ Initial look into the dataset showed 14 images that were polluted - they were bl
 
 ### The Model - Explained
 Since the final output are co-ordinates, this is basically a regression problem. The CNN block consisted of 3 layers with kernel size 3x3 and padding being `valid`. BatchNormalization was used for reducing overfitting and MaxPooling2D was used to bring down the feature size. The dense block was made of 3 layers with 128, 64 and 2 neurons respectively. 
+
+Input images were normalized to the range of 0-1 from 0-255. However, the output was not normalized. The activation of the last layer was set to `relu`.
