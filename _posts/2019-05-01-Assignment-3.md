@@ -8,7 +8,16 @@ author	: "Group 04"
 Full problem statements can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/blob/master/Assignments/Assignment_3/CS671_Assignment_3_2019_.pdf). All code for this assignment can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_3).
 
 # Question 1 - Aj R Laddha
-# Question 2 - Kaustubh Verma
+# Question 2 - Pixelwise Image Segmentation - Kaustubh Verma
+Code for the task can be found [here](https://github.com/42niks/CS671-Deep-Learning 2019/tree/master/Assignments/Assignment_3/Q2)
+
+## Description
+This task invloved Pixelwise Image Segmentation on Iris image dataset. The image segmentation problem is a core vision problem with a longstanding history of research. Historically, this problem has been studied in the unsupervised setting as a clustering problem of given an image, produce a pixelwise prediction that segments the image into coherent clusters corresponding to objects in the image .
+
+## My Model
+Here we have implemented FCN(Fully Convolutional Networks) model for Semantic Segmentation.Fully convolutional networks can efficiently learn to make dense predictions for per-pixel tasks like semantic segmentation. For this task I have implemented FCN 8 architecture which uses three concatenation of layers from pool3,pool4 and conv7 to produce final image segmentation. Such architecture enables fine detailing for segmentation task.
+
+
 # Question 3 - Core Point Detection - Nikhil T R
 
 ## Description
