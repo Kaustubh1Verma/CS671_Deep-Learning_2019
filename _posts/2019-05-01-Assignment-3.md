@@ -9,7 +9,7 @@ Full problem statements can be found [here](https://github.com/42niks/CS671-Deep
 
 # Question 1 - Aj R Laddha
 # Question 2 - Pixelwise Image Segmentation - Kaustubh Verma
-Code for the task can be found [here](https://github.com/42niks/CS671-Deep-Learning 2019/tree/master/Assignments/Assignment_3/Q2)
+Code for the task can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_3/Q2)
 
 ## Description
 This task invloved Pixelwise Image Segmentation on Iris image dataset. The image segmentation problem is a core vision problem with a longstanding history of research. Historically, this problem has been studied in the unsupervised setting as a clustering problem of given an image, produce a pixelwise prediction that segments the image into coherent clusters corresponding to objects in the image .
