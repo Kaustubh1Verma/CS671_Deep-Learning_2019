@@ -23,5 +23,5 @@ The weights get saved in model_weights_full.
 
 ################## NOTE ###################
 
-Download the model weights from https://cloud.iitmandi.ac.in/d/ceb988b684/ and put it inside the model_weights_full folder.
-Also download VGG-weights(vgg16_weights_tf_dim_ordering_tf_kernels_notop) from https://cloud.iitmandi.ac.in/f/d90ca19789/?raw=1 and place it in the same folder as training.
+* Download the model weights from https://cloud.iitmandi.ac.in/d/ceb988b684/ and put it inside the model_weights_full folder.
+* Also download VGG-weights(vgg16_weights_tf_dim_ordering_tf_kernels_notop) from https://cloud.iitmandi.ac.in/f/d90ca19789/?raw=1 and place it in the same folder as training.
