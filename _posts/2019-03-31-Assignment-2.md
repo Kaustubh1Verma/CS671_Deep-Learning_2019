@@ -28,8 +28,10 @@ This task involved visualizing of the outputs in a neural network. Such visualiz
 **1. Visualizing Intermediate Layer Activations** - This visualization helps to take a look at the
 different images from Convolution layers filters,and see how different filters in different layers
 activate different parts of the image.
+
 **2. Visualizing Convnet Filters** - In this visualizations ,we observe how different filters are learned
 along the network by using Gradient Descent on value of convnet.
+
 **3. Visualizing Heatmaps of class activations** - In this visulization we produce heatmaps of class
 activations over input images.A class activation map is a basically a 2D grid of scores for a
 particular output class for each location in the image.
