@@ -24,6 +24,7 @@ Report and Notebook for the code can be found [here](https://github.com/42niks/C
 
 ## Description
 This task involved visualizing of the outputs in a neural network. Such visualization especially in a CNN network helps to look at what sort of learning is happening and what portion is the network looking to produce the output. The three visualizations that we are performing here are -
+
 **1. Visualizing Intermediate Layer Activations** - This visualization helps to take a look at the
 different images from Convolution layers filters,and see how different filters in different layers
 activate different parts of the image.
