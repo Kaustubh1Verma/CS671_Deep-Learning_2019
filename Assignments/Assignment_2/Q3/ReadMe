@@ -1,4 +1,8 @@
-Report is all combined.
+## Network Visualization
+
+This involves network visualization using three techniques - Intermediate Layer Activations,Visualizing Convnet Filters and Visualizing Heatmaps of class activations
+
+Report for different model and visualization is all combined.
 
 Data used for line dataset for 96 classes and multihead classification can be taken out from the respective folders.
 
