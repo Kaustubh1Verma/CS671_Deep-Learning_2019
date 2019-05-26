@@ -1,4 +1,4 @@
-## Description
+## Network Visualization
 
 This involves network visualization using three techniques - Intermediate Layer Activations,Visualizing Convnet Filters and Visualizing Heatmaps of class activations
 
