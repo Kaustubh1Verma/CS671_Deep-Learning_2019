@@ -1,1 +1,3 @@
-Contains Q1
+For Q1-A We had created our X-Train , X-test , Y-Train , Y_test (Split of 90-10)
+We trained our model for both detection and classification. After training testing is done on Test Data and
+Result is save under Output.txt containing Axtual , Predicted ,IOU.
