@@ -8,6 +8,13 @@ author	: "Group 04"
 Full problem statements can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/blob/master/Assignments/Assignment_2/CS671_Assignment_2.pdf). All code for this assignment can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_2).
 
 # Question 1 - Foundations of Convolutional Neural Networks - Aj R Laddha
+The report and relevant notebooks can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_2/Q1).
+
+## Description
+We were tasked with making a sequential model using the Funcional API in keras. Basically, we had to classify the MNIST and line dataset made in the [previous assignment](https://42niks.github.io/CS671-Deep-Learning-2019/2019/Assignment-1/). We had implemented the model as per given in question and then do some changes to get a better accuracy.
+
+## My Work
+Basic Model has a 7x7 conv layer with RELU activation , Batch Normalization and 2x2 max pool layer. At the end we have a dense layer with 10 and 1024 otput layer for MNIST and line dataset respectively. For second part we had change the filer size , number of filter  , addded pooling  , adder learning rate decay and L2 regularization.  
 # Question 2 - Multihead Classification - Nikhil T R
 The report and relevant notebooks can be found [here](https://github.com/42niks/CS671-Deep-Learning-2019/tree/master/Assignments/Assignment_2/Q2).
 
