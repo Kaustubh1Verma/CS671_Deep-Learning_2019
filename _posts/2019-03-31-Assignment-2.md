@@ -19,3 +19,14 @@ I made the model using the [keras functional api](https://keras.io/getting-start
 The major observation was the varying learning rates of the different classification heads. So, for the [third variation](https://github.com/42niks/CS671-Deep-Learning-2019/blob/master/Assignments/Assignment_2/Q2/Q2-v3.ipynb), I set loss weights during `model.compile`. The final loss is the weighted sum of all the 4 losses. This _sorta_ normalized the issue and I managed to get good performance on all 4 heads. Please refer to the [report](https://github.com/42niks/CS671-Deep-Learning-2019/blob/master/Assignments/Assignment_2/Q2/CS671_DL_A2.pdf) for more information.
 
 # Question 3 - Kaustubh Verma
+
+## Description
+This task involved visualizing of the outputs in a neural network. Such visualization especially in a CNN network helps to look at what sort of learning is happening and what portion is the network looking to produce the output. The three visualizations that we are performing here are -
+1. Visualizing Intermediate Layer Activations - This visualization helps to take a look at the
+different images from Convolution layers filters,and see how different filters in different layers
+activate different parts of the image.
+2. Visualizing Convnet Filters - In this visualizations ,we observe how different filters are learned
+along the network by using Gradient Descent on value of convnet.
+3. Visualizing Heatmaps of class activations - In this visulization we produce heatmaps of class
+activations over input images.A class activation map is a basically a 2D grid of scores for a
+particular output class for each location in the image.
